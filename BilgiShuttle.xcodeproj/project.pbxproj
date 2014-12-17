@@ -21,6 +21,16 @@
 		4C9764F518469C650058CF21 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C9764D718469C650058CF21 /* UIKit.framework */; };
 		4C9764FD18469C650058CF21 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C9764FB18469C650058CF21 /* InfoPlist.strings */; };
 		4C9764FF18469C650058CF21 /* BilgiShuttleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9764FE18469C650058CF21 /* BilgiShuttleTests.m */; };
+		4C97650A18469CF10058CF21 /* REDD.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C97650818469CF10058CF21 /* REDD.jpg */; };
+		4C97650B18469CF20058CF21 /* whereareyou.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C97650918469CF10058CF21 /* whereareyou.png */; };
+		4C97650E1846A1F60058CF21 /* SantralViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C97650D1846A1F60058CF21 /* SantralViewController.m */; };
+		4C9765111846ACD70058CF21 /* KabatasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9765101846ACD60058CF21 /* KabatasViewController.m */; };
+		4C9765141846ACFC0058CF21 /* KustepeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9765131846ACFC0058CF21 /* KustepeViewController.m */; };
+		4C9765171846AD130058CF21 /* DolapdereViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9765161846AD130058CF21 /* DolapdereViewController.m */; };
+		4C97651A1846AD2B0058CF21 /* MecidiyekoyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9765191846AD2B0058CF21 /* MecidiyekoyViewController.m */; };
+		4C97651D1846AD4E0058CF21 /* PangaltiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C97651C1846AD4E0058CF21 /* PangaltiViewController.m */; };
+		4C9765201846AD670058CF21 /* HaliciogluViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C97651F1846AD670058CF21 /* HaliciogluViewController.m */; };
+		4C9765261846AD9A0058CF21 /* TophaneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9765251846AD9A0058CF21 /* TophaneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,24 @@
 		4C9764FA18469C650058CF21 /* BilgiShuttleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BilgiShuttleTests-Info.plist"; sourceTree = "<group>"; };
 		4C9764FC18469C650058CF21 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C9764FE18469C650058CF21 /* BilgiShuttleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BilgiShuttleTests.m; sourceTree = "<group>"; };
+		4C97650818469CF10058CF21 /* REDD.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = REDD.jpg; sourceTree = "<group>"; };
+		4C97650918469CF10058CF21 /* whereareyou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whereareyou.png; sourceTree = "<group>"; };
+		4C97650C1846A1F60058CF21 /* SantralViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SantralViewController.h; sourceTree = "<group>"; };
+		4C97650D1846A1F60058CF21 /* SantralViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SantralViewController.m; sourceTree = "<group>"; };
+		4C97650F1846ACD60058CF21 /* KabatasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KabatasViewController.h; sourceTree = "<group>"; };
+		4C9765101846ACD60058CF21 /* KabatasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KabatasViewController.m; sourceTree = "<group>"; };
+		4C9765121846ACFC0058CF21 /* KustepeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KustepeViewController.h; sourceTree = "<group>"; };
+		4C9765131846ACFC0058CF21 /* KustepeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KustepeViewController.m; sourceTree = "<group>"; };
+		4C9765151846AD130058CF21 /* DolapdereViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DolapdereViewController.h; sourceTree = "<group>"; };
+		4C9765161846AD130058CF21 /* DolapdereViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DolapdereViewController.m; sourceTree = "<group>"; };
+		4C9765181846AD2B0058CF21 /* MecidiyekoyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MecidiyekoyViewController.h; sourceTree = "<group>"; };
+		4C9765191846AD2B0058CF21 /* MecidiyekoyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MecidiyekoyViewController.m; sourceTree = "<group>"; };
+		4C97651B1846AD4E0058CF21 /* PangaltiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PangaltiViewController.h; sourceTree = "<group>"; };
+		4C97651C1846AD4E0058CF21 /* PangaltiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PangaltiViewController.m; sourceTree = "<group>"; };
+		4C97651E1846AD670058CF21 /* HaliciogluViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HaliciogluViewController.h; sourceTree = "<group>"; };
+		4C97651F1846AD670058CF21 /* HaliciogluViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HaliciogluViewController.m; sourceTree = "<group>"; };
+		4C9765241846AD9A0058CF21 /* TophaneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TophaneViewController.h; sourceTree = "<group>"; };
+		4C9765251846AD9A0058CF21 /* TophaneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TophaneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +129,8 @@
 		4C9764D218469C650058CF21 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4C97650818469CF10058CF21 /* REDD.jpg */,
+				4C97650918469CF10058CF21 /* whereareyou.png */,
 				4C9764D318469C650058CF21 /* Foundation.framework */,
 				4C9764D518469C650058CF21 /* CoreGraphics.framework */,
 				4C9764D718469C650058CF21 /* UIKit.framework */,
@@ -117,6 +147,22 @@
 				4C9764E518469C650058CF21 /* Main.storyboard */,
 				4C9764E818469C650058CF21 /* ViewController.h */,
 				4C9764E918469C650058CF21 /* ViewController.m */,
+				4C97650C1846A1F60058CF21 /* SantralViewController.h */,
+				4C97650D1846A1F60058CF21 /* SantralViewController.m */,
+				4C97650F1846ACD60058CF21 /* KabatasViewController.h */,
+				4C9765101846ACD60058CF21 /* KabatasViewController.m */,
+				4C9765121846ACFC0058CF21 /* KustepeViewController.h */,
+				4C9765131846ACFC0058CF21 /* KustepeViewController.m */,
+				4C9765151846AD130058CF21 /* DolapdereViewController.h */,
+				4C9765161846AD130058CF21 /* DolapdereViewController.m */,
+				4C9765181846AD2B0058CF21 /* MecidiyekoyViewController.h */,
+				4C9765191846AD2B0058CF21 /* MecidiyekoyViewController.m */,
+				4C97651B1846AD4E0058CF21 /* PangaltiViewController.h */,
+				4C97651C1846AD4E0058CF21 /* PangaltiViewController.m */,
+				4C97651E1846AD670058CF21 /* HaliciogluViewController.h */,
+				4C97651F1846AD670058CF21 /* HaliciogluViewController.m */,
+				4C9765241846AD9A0058CF21 /* TophaneViewController.h */,
+				4C9765251846AD9A0058CF21 /* TophaneViewController.m */,
 				4C9764EB18469C650058CF21 /* Images.xcassets */,
 				4C9764DA18469C650058CF21 /* Supporting Files */,
 			);
@@ -229,7 +275,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C9764EC18469C650058CF21 /* Images.xcassets in Resources */,
+				4C97650B18469CF20058CF21 /* whereareyou.png in Resources */,
 				4C9764DE18469C650058CF21 /* InfoPlist.strings in Resources */,
+				4C97650A18469CF10058CF21 /* REDD.jpg in Resources */,
 				4C9764E718469C650058CF21 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,7 +298,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C9764EA18469C650058CF21 /* ViewController.m in Sources */,
+				4C97651A1846AD2B0058CF21 /* MecidiyekoyViewController.m in Sources */,
+				4C97651D1846AD4E0058CF21 /* PangaltiViewController.m in Sources */,
+				4C9765111846ACD70058CF21 /* KabatasViewController.m in Sources */,
+				4C9765171846AD130058CF21 /* DolapdereViewController.m in Sources */,
+				4C9765201846AD670058CF21 /* HaliciogluViewController.m in Sources */,
+				4C9765141846ACFC0058CF21 /* KustepeViewController.m in Sources */,
 				4C9764E418469C650058CF21 /* AppDelegate.m in Sources */,
+				4C9765261846AD9A0058CF21 /* TophaneViewController.m in Sources */,
+				4C97650E1846A1F60058CF21 /* SantralViewController.m in Sources */,
 				4C9764E018469C650058CF21 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -460,6 +516,7 @@
 				4C97650418469C650058CF21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C97650518469C650058CF21 /* Build configuration list for PBXNativeTarget "BilgiShuttleTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +525,7 @@
 				4C97650718469C650058CF21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
